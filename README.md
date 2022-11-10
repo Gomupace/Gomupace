@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gomupace
 - 👀 I’m interested in miniature painting, boardgames, D&D and video games
-- 🌱 I’m currently learning C# in .NET6
+- 🌱 I’m currently learning C# in .NET7
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
